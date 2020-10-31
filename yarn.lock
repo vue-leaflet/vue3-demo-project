@@ -1102,10 +1102,10 @@
     "@types/webpack-sources" "*"
     source-map "^0.6.0"
 
-"@vue-leaflet/vue-leaflet@^0.1.2":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@vue-leaflet/vue-leaflet/-/vue-leaflet-0.1.2.tgz#f61cb41da25106ecfaa1cf61c6d7a052333df95d"
-  integrity sha512-DoLv6Njro2tWu63MxQtaTXMxd7W7s2ql4DXSqPoP4YtM1G9vlN5Fym3wFJVoHhuu51A+n/nWXjvNF3OaIGYk2Q==
+"@vue-leaflet/vue-leaflet@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@vue-leaflet/vue-leaflet/-/vue-leaflet-0.3.0.tgz#78564789594c71707734b3e0a0be222c31bd2ce5"
+  integrity sha512-aW9RgxgajAs8rnTjI3/NPGCCZltissH1p/h7BfSRzv7UkcWReqC8HLVxeasUuu9gi4M1FPf+whNFl7uVn2Omtw==
 
 "@vue/babel-helper-vue-jsx-merge-props@^1.0.0":
   version "1.0.0"
